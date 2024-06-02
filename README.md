@@ -3,7 +3,7 @@
 Url: https://developer.android.com/courses/android-basics-compose/course
 
 - Unit 1: Your first Android app
-  - Path 1: Introduction to Kotlin
+  - Path 1: Introduction to Kotlin (18 pages)
   - Path 2: Setup Android Studio
   - Path 3: Build a basic layout
 - Unit 2: Build app UI
