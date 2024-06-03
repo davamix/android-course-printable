@@ -7,6 +7,7 @@ Url: https://developer.android.com/courses/android-basics-compose/course
     - Your first program in Kolin (18 pages)
     - Create and use variables in Kotlin (35 pages)
     - Create and use functions in Kotlin (14 pages)
+    - Practice Problems: Kotlin Basics (17 pages)
   - Path 2: Setup Android Studio
   - Path 3: Build a basic layout
 - Unit 2: Build app UI
