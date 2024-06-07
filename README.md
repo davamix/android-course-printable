@@ -38,6 +38,7 @@ Url: https://developer.android.com/courses/android-basics-compose/course
   - Path 2: Load and display images from the internet
 - Unit 6: Data persistence
   - Path 1: Introduction to SQL
+    - Use SQL to read and write to a database (24 pages)
   - Path 2: Use Room for data persistence
   - Path 3: Store and acccess data using keys with DataStore
 - Unit 7: WorkManager
