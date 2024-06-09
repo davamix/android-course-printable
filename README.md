@@ -42,6 +42,7 @@ Url: https://developer.android.com/courses/android-basics-compose/course
   - Path 2: Use Room for data persistence
     - Persist data with Room (35 pages)
     - Read and update data with Room (36 pages)
+    - Practice - Build Bus Schedule app (5 pages)
   - Path 3: Store and acccess data using keys with DataStore
 - Unit 7: WorkManager
   - Path 1: Schedules tasks with WorkManager
