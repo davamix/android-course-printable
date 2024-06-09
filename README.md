@@ -36,7 +36,7 @@ Url: https://developer.android.com/courses/android-basics-compose/course
 - Unit 5: Connect to the internet
   - Path 1: Get data from the internet
   - Path 2: Load and display images from the internet
-- Unit 6: Data persistence
+- **Unit 6: Data persistence**
   - Path 1: Introduction to SQL
     - Use SQL to read and write to a database (24 pages)
   - Path 2: Use Room for data persistence
@@ -45,6 +45,7 @@ Url: https://developer.android.com/courses/android-basics-compose/course
     - Practice - Build Bus Schedule app (5 pages)
   - Path 3: Store and acccess data using keys with DataStore
     - Save preferences locally with DataStore (13 pages)
+    - Project - Create a Flight Search app (6 pages)
 - Unit 7: WorkManager
   - Path 1: Schedules tasks with WorkManager
 - Unit 8: Views and Compose
