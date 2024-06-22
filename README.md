@@ -10,6 +10,7 @@ Url: https://developer.android.com/courses/android-basics-compose/course
     - Practice Problems: Kotlin Basics (17 pages)
   - Path 2: Setup Android Studio
     - Download and install Android Studio (21 pages)
+    - Create your first Android app (17 pages)
   - Path 3: Build a basic layout
 - Unit 2: Build app UI
   - Path 1: Kotlin fundamentals
