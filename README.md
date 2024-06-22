@@ -12,6 +12,7 @@ Url: https://developer.android.com/courses/android-basics-compose/course
     - Download and install Android Studio (21 pages)
     - Create your first Android app (17 pages)
     - Run your first app on the Android Emulator (8 pages)
+    - How to connect your Android device (8 pages)
   - Path 3: Build a basic layout
 - Unit 2: Build app UI
   - Path 1: Kotlin fundamentals
